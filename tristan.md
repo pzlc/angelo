@@ -1,5 +1,6 @@
 ---
 title: "PZLC - Angelo > Tristan"
+layout: page
 ---
 # pzlc
 
