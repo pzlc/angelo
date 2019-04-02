@@ -6,5 +6,7 @@ layout: default
 
 ## Angelo
 
+How about checking [Tristan](tristan.md)?
+
 2019
 
