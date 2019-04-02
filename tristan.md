@@ -1,6 +1,5 @@
 ---
 title: "PZLC - Angelo > Tristan"
-layout: default
 ---
 # pzlc
 
