@@ -1,6 +1,5 @@
 ---
 title: "PZLC - Angelo"
-layout: home
 ---
 # pzlc
 

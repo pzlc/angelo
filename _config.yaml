@@ -5,4 +5,5 @@ defaults:
       path: ""
     values:
       author: piotrek
+      layout: default
 
