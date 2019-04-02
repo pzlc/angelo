@@ -8,5 +8,5 @@ layout: home
 
 How about checking [Tristan](tristan.md)?
 
-2019
+{{ 'today' | date :'%Y' }} ({{ 'today' | date :'%y' }})
 
