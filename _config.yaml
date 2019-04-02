@@ -1,3 +1,8 @@
 theme: minima
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      author: piotrek
 
